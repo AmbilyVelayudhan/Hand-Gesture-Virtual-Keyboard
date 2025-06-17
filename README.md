@@ -67,7 +67,7 @@ hand-gesture-keyboard/
 
 ✅ Controls
 
- 1.Gesture                     
+1. Gesture                     
  
  * Hover on A-Z     
  * Space key      
