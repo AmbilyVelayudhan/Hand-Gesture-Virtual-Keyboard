@@ -58,7 +58,7 @@ pyautogui
 📂 Project Structure
 
 hand-gesture-keyboard/
-│
+
 ├── app.py              
 ├── gesture_module.py     
 ├── virtual_keyboard.py  
@@ -67,12 +67,12 @@ hand-gesture-keyboard/
 
 ✅ Controls
 
- Gesture        Action                 
- ------------ | ---------------------- 
- Hover on A-Z | Types that character   
- Space key    | Adds a space           
- Backspace    | Deletes last character 
- Enter        | Inserts a line break   
+ - Gesture        - Action                 
+    
+ * Hover on A-Z   * Types that character   
+ * Space key      * Adds a space           
+ * Backspace      * Deletes last character 
+ * Enter          * Inserts a line break   
 
 
 🛠️ Installation
