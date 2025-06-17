@@ -67,13 +67,19 @@ hand-gesture-keyboard/
 
 ✅ Controls
 
- - Gesture        - Action                 
-    
- * Hover on A-Z   * Types that character   
- * Space key      * Adds a space           
- * Backspace      * Deletes last character 
- * Enter          * Inserts a line break   
+ 1.Gesture                     
+ 
+ * Hover on A-Z     
+ * Space key      
+ * Backspace      
+ * Enter          
 
+2. Action
+
+* Types that character
+* Adds a space
+* Deletes last character
+* Inserts a line break   
 
 🛠️ Installation
 
